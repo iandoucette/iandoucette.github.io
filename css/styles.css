@@ -1,0 +1,31 @@
+body {
+background-color: black;
+}
+h1 {
+color: white;
+}
+.BlackHoleContinue {
+    display: inline-block;
+    cursor: pointer;
+}
+p {
+    color: white;
+    font-size: 18pt;
+    margin-right: 10%;
+    margin-top: 5%;
+}
+.char1 {
+display: flex;
+color: rgb(124, 255, 103);
+margin-left: 10%;
+}
+.char2 {
+display: flex;
+color: rgb(78, 199, 255);
+margin-left: 10%;
+}
+.char3 {
+display: flex;
+color: rgb(251, 255, 0);
+margin-left: 10%;
+}

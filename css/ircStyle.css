@@ -1,0 +1,26 @@
+body {
+background-color: white;
+}
+h1 {
+    color: black;
+    font-size: 36pt;
+    margin-right: 50%;
+    margin-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.BlackHoleContinue {
+    display: inline-block;
+    cursor: pointer;
+}
+p {
+    color: black;
+    font-size: 18pt;
+    margin-right: 0%;
+    margin-top: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.flex {
+    display: flexbox;
+    font-size: 18pt;
+    justify-items: right;
+}
